@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.HW1.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="postSplashScreenTheme">@style/Theme.HW1</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/avd_notes</item>
+    </style>
+</resources>
